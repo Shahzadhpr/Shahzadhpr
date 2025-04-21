@@ -1,12 +1,12 @@
 <h1 align="center">👩‍💻 A Little About Me...</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahzadhpr&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 <h2 align="center">😎 Hi there, fellow coder! I'm Shahzad Hassanpour</h2>
 
 <p align="center">🧠 Front-end enthusiast | 🌱 Forever learning | ☕ Powered by coffee & code</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahzadhpr&style=flat&color=2E7D32" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -61,6 +61,32 @@ userInfo.data.sayHi();
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhpr&layout=compact&theme=radical)
+
+<br>
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hassanpourshahzad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:hprshahzad29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://wa.me/09112874119" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  
+  <a href="https://t.me/Shahzad_hpr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <a href="https://instagram.com/shahzad.hpr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 
 
