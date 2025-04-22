@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 A Little About Me...</h1>
 
-<h2 align="center">😎 Hi there, fellow coder! I'm Shahzad Hassanpour</h2>
+<p align="center">😎 Hi there, fellow coder! I'm Shahzad Hassanpour</p>
 
 <p align="center">🧠 Front-end enthusiast | 🌱 Forever learning | ☕ Powered by coffee & code</p>
 <br>
