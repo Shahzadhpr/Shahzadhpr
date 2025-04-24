@@ -60,7 +60,8 @@ userInfo.data.sayHi();
 ## 🚀 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhpr&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+
 
 <br>
 
