@@ -61,9 +61,31 @@ userInfo.data.sayHi();
 <br>
 
 ## 🌟 Soft Skills
-| Problem Solving | Team Collaboration | Creativity in UI Design | Communication | Attention to Detail | Eagerness to Learn |
+<!--| Problem Solving | Team Collaboration | Creativity in UI Design | Communication | Attention to Detail | Eagerness to Learn |
 |-----------------|--------------------|------------------------|---------------|---------------------|--------------------|
-| ✔️              | ✔️                 | ✔️                     | ✔️            | ✔️                  | ✔️                 |
+| ✔️              | ✔️                 | ✔️                     | ✔️            | ✔️                  | ✔️                 |-->
+<table>
+  <thead>
+    <tr>
+      <th>Problem Solving</th>
+      <th>Team Collaboration</th>
+      <th>Creativity in UI Design</th>
+      <th>Communication</th>
+      <th>Attention to Detail</th>
+      <th>Eagerness to Learn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td>✔️</td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <br>
