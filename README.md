@@ -49,8 +49,8 @@ userInfo.data.sayHi();
 
 ### 🎨 UI & Design Tools
 <!--[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,figma,xd)](https://skillicons.dev)-->
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-0A66C2?style=for-the-badge&logo=responsive&logoColor=white)
