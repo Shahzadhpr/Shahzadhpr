@@ -120,9 +120,9 @@ userInfo.data.sayHi();
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
-  <a href="https://instagram.com/shahzad.hpr" target="_blank">
+  <!--<a href="https://instagram.com/shahzad.hpr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a>-->
 </p>
 
 <!--<div align="left" style="display: flex; gap: 10px; align-items: center;">
