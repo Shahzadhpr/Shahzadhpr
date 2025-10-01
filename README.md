@@ -57,10 +57,89 @@ userInfo.data.sayHi();
 
 ### 🧰 Development Tools
 <!--[![My Dev Tools](https://skillicons.dev/icons?i=vscode,git,github,windowsterminal)](https://skillicons.dev)-->
+![VS Code](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black )
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+<!-- ## ⚙️ My Dev Toolbox  
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="32" height="32" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="32" height="32" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="32" height="32" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="32" height="32" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="TailwindCSS" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="32" height="32" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/adobe-xd.png" width="32" height="32" alt="Adobe XD" />
+      <br>Adobe XD
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="32" height="32" alt="Github" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="32" height="32" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="32" height="32" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table> -->
 
 <br>
 
@@ -68,7 +147,7 @@ userInfo.data.sayHi();
 <!--| Problem Solving | Team Collaboration | Creativity in UI Design | Communication | Attention to Detail | Eagerness to Learn |
 |-----------------|--------------------|------------------------|---------------|---------------------|--------------------|
 | ✔️              | ✔️                 | ✔️                     | ✔️            | ✔️                  | ✔️                 |-->
-<table>
+<table  align="center">
   <thead>
     <tr>
       <th>Problem Solving</th>
