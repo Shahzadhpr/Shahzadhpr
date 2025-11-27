@@ -176,7 +176,8 @@ userInfo.data.sayHi();
 ## 🚀 GitHub Stats & Activity
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&show_icons=true&theme=radical)-->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzadhpr&theme=radical)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzadhpr&theme=radical)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhpr&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
 <br>
