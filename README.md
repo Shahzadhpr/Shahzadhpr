@@ -1,3 +1,6 @@
+<!--<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>-->
 <h1 align="center">👩‍💻 A Little About Me...</h1>
 
 <p align="center">😎 Hi there, fellow coder! I'm Shahzad Hassanpour</p>
