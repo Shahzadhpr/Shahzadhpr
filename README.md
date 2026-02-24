@@ -180,8 +180,14 @@ userInfo.data.sayHi();
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&show_icons=true&theme=radical)-->
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahzadhpr&theme=radical)-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhpr&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzadhpr&theme=radical&show_icons=true)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzadhpr&layout=compact&theme=radical&hide=Jupyter%20Notebook)-->
+
+<!--![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahzadhpr&theme=github_dark)-->
+<!--![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahzadhpr&theme=github_dark&utcOffset=4)-->
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahzadhpr&theme=github_dark)
 
 <br>
 
