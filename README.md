@@ -57,7 +57,7 @@
 
 ### 💻 Core Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<!--ts-->
 
 <!--### 🔥 Frameworks & Libraries
 
