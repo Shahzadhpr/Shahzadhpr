@@ -3,7 +3,7 @@
 <!-- ======================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&reversal=false&text=Welcome&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=70&color=gradient&height=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&reversal=false&text=Welcome&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=70&color=gradient&height=50" />
 </div>
 
 <!-- ======================== -->
@@ -59,9 +59,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-### 🔥 Frameworks & Libraries
+<!--### 🔥 Frameworks & Libraries
 
-[![My Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs)](https://skillicons.dev)-->
 
 ### 🎨 UI & Design
 
