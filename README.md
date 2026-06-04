@@ -171,5 +171,5 @@
 <!-- ======================== -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&animation=fadeIn&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2" />
 </div>
