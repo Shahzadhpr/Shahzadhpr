@@ -61,7 +61,7 @@
 
 <!--### 🔥 Frameworks & Libraries
 
-[![My Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs)](https://skillicons.dev)-->
+[![My Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) <!--,redux,nextjs-->
 
 ### 🎨 UI & Design
 
@@ -70,6 +70,12 @@
 ### 🧰 Development Tools
 
 [![My Dev Tools](https://skillicons.dev/icons?i=linux,npm,git,github,vscode)](https://skillicons.dev)
+
+<!--### ⚡ Automation & Workflow
+
+<img height="70" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
+
+<br>-->
 
 <img width="150" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" />
 
