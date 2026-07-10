@@ -59,17 +59,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<!--ts-->
 
-<!--### 🔥 Frameworks & Libraries
+### 🔥 Frameworks & Libraries
 
-[![My Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev) <!--,redux,nextjs-->
+[![My Frameworks](https://skillicons.dev/icons?i=react,tailwind,bootstrap)](https://skillicons.dev) <!--,redux,nextjs-->
+
+### 🗄️ Databases
+
+[![My Databases](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ### 🎨 UI & Design
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
 
 ### 🧰 Development Tools
 
-[![My Dev Tools](https://skillicons.dev/icons?i=linux,npm,git,github,vscode)](https://skillicons.dev)
+[![My Dev Tools](https://skillicons.dev/icons?i=linux,bash,nodejs,npm,git,github,vscode)](https://skillicons.dev)
 
 <!--### ⚡ Automation & Workflow
 
