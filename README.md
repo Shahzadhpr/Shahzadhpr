@@ -1,3 +1,4 @@
+<div id="top"></div>
 <!-- ======================== -->
 <!--        HEADER AREA       -->
 <!-- ======================== -->
@@ -174,7 +175,17 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+visiting+my+profile;⚡+Consistency+beats+talent+every+time;🌱+Always+learning,+always+improving;🤝+Open+to+meaningful+collaboration;☕+Turning+caffeine+into+clean+code;⚡+Less+talk,+more+commits)](https://git.io/typing-svg)
+&nbsp;
 
+<!-- ======================== -->
+<!--      BACK TO TOP         -->
+<!-- ======================== -->
+
+<p align="center">
+  <a href="#top">
+    <img src="back-to-top.svg" width="70" alt="Back to top" />
+  </a>
+</p>
 
 <!-- ======================== -->
 <!--         FOOTER           -->
